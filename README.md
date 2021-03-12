@@ -1,4 +1,4 @@
-Studying - Linux
+# **Studying - Linux**
 
 Linux 강의 독학
 
